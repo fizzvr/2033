@@ -1,0 +1,34 @@
+{
+    "gitbook": ">=2.0.0",
+    "title": "2033",
+    "description": "Año 2033.",
+    "language": "es",
+    "githubId": "fizzvr/2033",
+    "username": "fizzvr",
+    "name": "Vladimir Rodríguez",
+    "urls.profile": "http://github.com/fizzvr",
+    "accounts.github": "fizzvr",
+    "book": "minimalist",
+    "links": {
+        "sidebar": {
+            "Contacto / Soporte": "http://fizzvr.github.io"
+        }
+    },
+    "pluginsConfig": {
+        "github": {
+          "url": "https://github.com/fizzvr/2033"
+        },
+        "github-buttons": {
+          "repo": "fizzvr",
+          "types": [
+            "follow"
+          ],
+          "size": [
+              "none"
+          ]
+        }
+    },
+    "styles": {
+        "website": "./styles/website.css"
+    }
+}
