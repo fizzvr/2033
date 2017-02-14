@@ -3,3 +3,6 @@
   color: rgb(189, 202, 219);
   background: url("/styles/lander5.jpg") fixed;
 }
+.book.color-theme-2 .book-body .page-wrapper .page-inner section {
+  background: transparent;
+}
