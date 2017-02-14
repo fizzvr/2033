@@ -1,4 +1,9 @@
 /* CSS for website */
+.book.color-theme-2 .book-summary {
+  color: #bcc1d2;
+  background: url("/styles/lander5.jpg") fixed;
+  border-right: none;
+}
 .book.color-theme-2 .book-body {
   color: #f8f8f8;
   background: url("/styles/lander5.jpg") fixed;
