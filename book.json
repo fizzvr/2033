@@ -6,12 +6,13 @@
     "githubId": "fizzvr/2033",
     "username": "fizzvr",
     "name": "Vladimir Rodríguez",
-    "urls.profile": "http://github.com/fizzvr",
+    "urls.profile": "https://github.com/fizzvr",
     "accounts.github": "fizzvr",
     "book": "minimalist",
+    "plugins": ["github","github-buttons"],
     "links": {
         "sidebar": {
-            "Contacto / Soporte": "http://fizzvr.github.io"
+            "Contacto / Soporte": "https://fizzvr.github.io"
         }
     },
     "pluginsConfig": {
