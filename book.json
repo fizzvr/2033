@@ -12,7 +12,7 @@
     "plugins": ["github","github-buttons"],
     "links": {
         "sidebar": {
-            "Contacto / Soporte": "https://fizzvr.github.io"
+            "Contacto & Soporte": "https://fizzvr.github.io"
         }
     },
     "pluginsConfig": {
