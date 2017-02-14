@@ -6,3 +6,6 @@
 .book.color-theme-2 .book-body .page-wrapper .page-inner section {
   background: transparent;
 }
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal {
+  color: #f8f8f8;
+}
