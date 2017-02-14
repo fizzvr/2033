@@ -1,1 +1,5 @@
 /* CSS for website */
+.book.color-theme-2 .book-body {
+  color: rgb(189, 202, 219);
+  background: url("/lander5.jpg") fixed;
+}
